@@ -1,5 +1,4 @@
-USEFUL ONE-LINE SCRIPTS FOR SED    
-Dec. 29, 2005
+USEFUL ONE-LINE SCRIPTS FOR SED                               Dec. 29, 2005
 Compiled by Eric Pement - pemente[at]northpark[dot]edu        version 5.5
 
 Latest version of this file (in English) is usually at:
