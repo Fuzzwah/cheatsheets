@@ -102,8 +102,8 @@
   
 ```:marks``` - list of marks  
 ```ma``` - set current position for mark A  
-```\`a``` - jump to position of mark A  
-```y\`a``` - yank text to position of mark A  
+```` `a```` - jump to position of mark A  
+````y`a```` - yank text to position of mark A  
   
 # Macros  
   
